@@ -1,0 +1,6 @@
+@tring_to_be_better_HostAddress = http://localhost:5102
+
+GET {{tring_to_be_better_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
