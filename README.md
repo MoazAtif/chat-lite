@@ -1,4 +1,4 @@
-﻿# Project Name
+﻿# chat lite
 
 ## Description
 Simple ASP.NET Core Web API project with:
